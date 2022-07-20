@@ -1,4 +1,5 @@
-alert("Hi, this is an Asian simulation game. You are currently 5 years old.")
+alert("Hi, this is an Asian simulation game. This is entirely satire btw.")
+alert("You are currently 5 years old.")
 var socval=0
 var parval=0
 var iqpt=0
